@@ -1,2 +1,2 @@
 # myPokedex
-Old project - 
+Old project 
